@@ -1,0 +1,1 @@
+# Dracula-i3wm-i3status-config
